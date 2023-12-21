@@ -1,11 +1,11 @@
-###################################################
+
 Authors : Félix Husson - Valentin Kraemer
 
 Date : summer 2022
 
 Desc : Lorenz System 
 
-####################################################
+
 
 
 Projet de résolution du problème de l'attracteur de Lorenz par méthode d'Euler implicite et explicite ainsi que Runge Kutta 4. 
